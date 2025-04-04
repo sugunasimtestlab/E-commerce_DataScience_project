@@ -1,0 +1,11 @@
+selenium
+beautifulsoup4
+webdriver-manager
+pandas
+scikit-learn
+matplotlib
+numpy
+seaborn
+mysql-connector-python
+sqlalchemy
+yellowbrick
